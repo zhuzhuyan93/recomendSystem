@@ -5,7 +5,6 @@ from sklearn.metrics.pairwise import cosine_distances
 from scipy.stats import pearsonr
 import pandas as pd
 import numpy as np
-from userLikeTools import user2menuScore
 
 
 def loadData():
